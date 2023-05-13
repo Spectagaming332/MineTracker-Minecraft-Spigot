@@ -1,0 +1,4 @@
+name: Minetracker
+version: '1.0-SNAPSHOT'
+main: com.spectagaming332.minetracker.MineTracker
+api-version: 1.19
